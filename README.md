@@ -50,11 +50,11 @@ This repository contains Java implementations of fundamental algorithms demonstr
 
 | Algorithm                 | Time Complexity | Space Complexity       |
 |---------------------------|-----------------|-----------------------|
-| Longest Increasing Subsequence | \(O(n^2)\)     | \(O(n)\)               |
-| Longest Divisible Subset     | \(O(n^2)\)     | \(O(n)\)               |
-| Multistage Graph Algorithm   | \(O(n^2)\)     | \(O(n^2)\)             |
-| Minimum Path Sum (DP)       | \(O(n \times m)\) | \(O(n \times m)\)      |
-| Minimum Path Sum (Greedy)   | \(O(n \times m)\) | \(O(n + m)\)           |
+| Longest Increasing Subsequence | \(O($n^2$)\)     | \(O(n)\)               |
+| Longest Divisible Subset     | \(O($n^2$)\)     | \(O(n)\)               |
+| Multistage Graph Algorithm   | \(O($n^2$)\)     | \(O($n^2$)\)             |
+| Minimum Path Sum (DP)       | \(O(n $\times$ m)\) | \(O(n $\times$ m)\)      |
+| Minimum Path Sum (Greedy)   | \(O(n $\times$ m)\) | \(O(n + m)\)           |
 
 ## Reference
 https://docs.google.com/presentation/d/1vyPhZOECJBBqxeYecbb5ZYoyBTPnxJDOLuPfHymDRys/edit?usp=sharing
