@@ -57,7 +57,7 @@ This repository contains Java implementations of fundamental algorithms demonstr
 | Minimum Path Sum (Greedy)   | \(O(n $\times$ m)\) | \(O(n + m)\)           |
 
 ## Reference
-https://docs.google.com/presentation/d/1vyPhZOECJBBqxeYecbb5ZYoyBTPnxJDOLuPfHymDRys/edit?usp=sharing
+https://docs.google.com/presentation/d/1lEJjyDnI5W756FHfJY8yVKRgUhc88bT9FphItwadka4/edit?usp=sharing
 
 ## Contact
 
